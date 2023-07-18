@@ -52,8 +52,3 @@ To execute the test suite, follow these steps:
 
   
 
-
-
----
-
-That's it! You can use this README template as a starting point and customize it based on your specific needs. If you have any further questions or need additional assistance, feel free to ask.
